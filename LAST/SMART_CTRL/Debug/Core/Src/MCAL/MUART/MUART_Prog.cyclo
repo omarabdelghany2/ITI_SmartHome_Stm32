@@ -1,0 +1,3 @@
+../Core/Src/MCAL/MUART/MUART_Prog.c:15:6:MUART_UART1_vInit	1
+../Core/Src/MCAL/MUART/MUART_Prog.c:46:6:MUART_UART1_vSendByte	3
+../Core/Src/MCAL/MUART/MUART_Prog.c:53:4:MUART_UART1_u8ReceiveByte	2

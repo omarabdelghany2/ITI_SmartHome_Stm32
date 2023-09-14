@@ -1,0 +1,8 @@
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:8:6:MGPIO_vSetPinMode	16	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:23:6:MGPIO_vSetPinOutPutType	16	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:47:6:MGPIO_vSetOutputSpeed	16	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:61:6:MGPIO_vSetPinInputPull	16	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:75:4:MGPIO_vGetPinVal	24	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:88:6:MGPIO_vSetPinVal	16	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:111:6:MGPIO_vSetPinVal_fast	16	static
+../Core/Src/MCAL/MGPIO/MGPIO_Program.c:134:6:MGPIO_vSetAlternativeFunc	24	static

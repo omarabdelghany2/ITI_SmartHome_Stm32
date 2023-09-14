@@ -1,0 +1,3 @@
+../Core/Src/APP/Login_System.c:18:6:System_Reset	1
+../Core/Src/APP/Login_System.c:31:4:Login_System	6
+../Core/Src/APP/Login_System.c:88:4:Check_Pass	5

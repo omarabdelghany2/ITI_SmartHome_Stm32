@@ -1,0 +1,2 @@
+../Core/Src/main.c:22:5:main	16	static
+../Core/Src/main.c:73:6:MGPIO_vINIT	8	static
